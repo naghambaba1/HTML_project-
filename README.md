@@ -22,11 +22,19 @@ The project uses **only HTML** (no CSS or JavaScript) and includes multimedia co
 ## 📂 Project Structure
 
 ├── Home.html # Main homepage of the website
+
 ├── java.html # Java learning page with topics, links, and examples
+
 ├── python.html # Python learning page with topics, links, and examples
+
 ├── resources.html # Resources and tips for learning
+
 ├── courses.html # List of available and upcoming courses
+
 ├── images/ # Folder containing images
+
 │ ├── java-logo.png
+
 │ └── python-logo.png
+
 └── README.md # Project documentation
