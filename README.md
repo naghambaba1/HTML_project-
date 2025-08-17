@@ -26,7 +26,8 @@ The project uses **only HTML** (no CSS or JavaScript) and includes multimedia co
 ├── java.html             # Java learning page with topics, links, and examples  
 ├── python.html           # Python learning page with topics, links, and examples  
 ├── resources.html        # Resources and tips for learning  
-├── courses.html          # List of available and upcoming courses  
+├── courses.html          # List of available and upcoming courses 
+├──style.css              # css file 
 ├── images/               # Folder containing images  
 │   ├── java-logo.png     # Java logo image  
 │   └── python-logo.png   # Python logo image  
