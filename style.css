@@ -1,0 +1,198 @@
+body{
+    background-color:#D6F6FF;
+}
+.intro {
+color:blue;
+text-align: center;
+}
+.nav{
+
+    margin: 20px;;
+}
+.start{
+background-color: white;
+padding: 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+p{
+
+    border-left:solid red 5px;
+    border-radius: 3px;
+    padding: 5px;
+}
+.java{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+
+
+
+}
+.python{
+background-color: white;
+padding: 10px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+
+}
+.about{
+background-color: white;
+padding: 10px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;   
+width:fit-content;
+width: 900px;
+}
+a{
+    padding: 0px 0px 50px 20px;
+}
+.java_intro{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px; 
+}
+.jav_bas{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;  
+}
+.adv_java{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+.video{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width:2000 px;
+}
+.pyt_intro{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;   
+}
+.pyt_top{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+.java_res{
+   background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px; 
+}
+.pyt_res{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+
+}
+.Tips{
+background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+.java_co{
+    background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+.pyt_co{
+    background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+.coming_soon{
+    background-color: white;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+p.jav_bas{
+background-color:lemonchiffon;
+padding: 5px 20px;
+border-radius: 20px;
+margin: 20px;
+width: 2500px;
+text-align: left;
+width:fit-content;
+width: 900px;
+}
+h2{
+text-decoration: solid rgb(102, 169, 206) 5px;
+}
